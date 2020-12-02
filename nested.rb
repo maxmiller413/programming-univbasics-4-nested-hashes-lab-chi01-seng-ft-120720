@@ -16,6 +16,9 @@ def hopper
       }
     }
 
+programmer_hash [:grace_hopper] = "COBOL"
+programmer_hash
+
 end
 
 def alan_kay_is_known_for
