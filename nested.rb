@@ -16,8 +16,7 @@ def hopper
       }
     }
 
-programmer_hash [:grace_hopper] = "COBOL"
-programmer_hash
+programmer_hash [:grace_hopper]
 
 end
 
